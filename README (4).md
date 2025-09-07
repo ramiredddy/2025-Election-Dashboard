@@ -27,7 +27,7 @@ The dataset for this analysis is included within the repository itself (`/datase
 - **Git:** Version control for collaboration and tracking changes.
 - **Markdown:** Documentation and README formatting.
 
-## Visualizations
+## Visualization
 
 The repository showcases a diverse range of visualizations created using Power BI, encompassing various chart types and representations, including but not limited to:
 
